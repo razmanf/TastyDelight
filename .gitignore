@@ -1,0 +1,7 @@
+.htaccess
+.env
+/vendor/
+/node_modules/
+/.idea/
+/logs/
+*.log
