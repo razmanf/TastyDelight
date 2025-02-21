@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Gabarito&weight=500&size=60&duration=2500&pause=5000&color=DD6625&multiline=true&width=1024&height=100&lines=Introduction+to+Vincent+Restaurant)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Gabarito&weight=500&size=60&duration=2500&pause=5000&color=DD6625&multiline=true&width=1024&height=100&lines=Introduction+to+Vincent+Restaurant)   (DenverCoder1, 2024)
 
 View the full project [here](https://github.com/razmanf/vincent-restaurant-website.git).
 
